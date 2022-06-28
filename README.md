@@ -1,0 +1,2 @@
+# stateAndTernary
+Created with CodeSandbox
